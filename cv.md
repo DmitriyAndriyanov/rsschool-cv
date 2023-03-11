@@ -6,7 +6,9 @@
 * **Telegram**: [@dmitriy_andriianov](https://t.me/dmitriy_andriianov)
 ***
 ### About Me
-A competent and result-oriented professional with experience in web development. A self-driven and organized individual determined to achieve desired goals. Responsible, optimistic, open-minded, a team-player.
+A competent and result-oriented professional with experience in web development.  
+A self-driven and organized individual determined to achieve desired goals.  
+Responsible, optimistic, open-minded, a team-player.
 ***
 ### Skills and Proficiency
 * HTML5, CSS3/SASS
