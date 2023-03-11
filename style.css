@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* reset css */
+html, body, div, span, h1, h2, img, label, aside, section, ul, li, code, em, strong, header {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+html {
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+}
+body {
+    margin: 0;
+    font: 1rem/1.4 Arial, Helvetica, sans-serif;
+    background: #fff;
+    color: #333;
+    min-width: 320px;
+}
